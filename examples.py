@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 TimEdit Quick Start Example
 Shows how to use the TIM editor programmatically

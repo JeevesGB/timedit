@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """Debug TIM file structure"""
 import struct
 import os
